@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @brunojuwer
-- 👀 I’m interested in Web Develompment
-- 🌱 I’m currently learning Spring Boot and Java
+- 👋 Hi, I’m Bruno Juwer
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Spring Boot, Java and SQL
 - 📫 How to reach me https://www.linkedin.com/in/bruno-juwer/
 
 <!---
