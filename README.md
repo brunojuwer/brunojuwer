@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bruno Juwer.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Java, Spring Boot, ReactJS.
 - 📫 How to reach me https://www.linkedin.com/in/bruno-juwer/
 
 <!---
