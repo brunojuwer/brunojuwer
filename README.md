@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Bruno Juwer.
 
 - 📌 Hello, I'm glad you're here!
-- 📖 I'm 25 years old and I live in Rio Grande do Sul in Brazil.
+- 📖 I'm 25 years old and I live in Rio Grande do Sul - BR.
 - 🏠 I'm a student and passionate about programming and music.
 
 # 💻 Tech Stack:
