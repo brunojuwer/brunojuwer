@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Bruno Juwer.
 
 - 📌 Hello, I'm glad you're here!
-- 🧑🏻‍💻 I'm a developer passionate about programming.
-- 🌏 I'm from Brazil Rio Grande do Sul - BR.
-
+- 🧑🏻‍💻 Developer passionate about programming.
+- 🌏 Currently living in Brazil, Rio Grande do Sul - BR.
+  
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
